@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Satish124
-- 👀 I’m Wordpress/php developer
+- 👀 I’m Wordpress/php developer having 3+ industrial Experience
 - 🌱 I’m currently learning Redux Jquery...
 - 💞️ I’m looking to collaborate on React Native
 - 📫 How to reach me ...
